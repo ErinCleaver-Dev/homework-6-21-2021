@@ -39,3 +39,8 @@
     color: rgb(139, 102, 33);
     text-decoration: none;
 }
+
+#list_container li a:hover {
+    color: rgb(70, 58, 37);
+    text-decoration: none;
+}
